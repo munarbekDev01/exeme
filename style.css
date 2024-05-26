@@ -126,8 +126,8 @@ color: white;
     rgba(255, 0, 9, 1) 96%
   );
 }
-.imgdiv {
-  width: 10%;
+.imgdiv img {
+  width: 40px;
   
 }
 .htt  {
